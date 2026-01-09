@@ -117,8 +117,156 @@ RULE UMUM:
 
 ---
 
-🖼️ 1. Halaman Home
+👑 A. PENJELASAN HALAMAN ADMIN
 
-Nama File:
+1. Halaman Login Admin
+
+![foto}()
+
+Pada halaman ini, admin melakukan proses login dengan memasukkan username dan password.
+
+Sistem akan memverifikasi data admin melalui database. Jika data valid, admin akan diarahkan ke dashboard admin.
+
+2. Dashboard Admin
+
+![foto}()
+
+Dashboard admin menampilkan informasi akun yang sedang login, termasuk nama pengguna dan role sebagai admin.
+
+Pada halaman ini tersedia tombol Kelola Semua To-Do yang hanya dapat diakses oleh admin.
+
+3. Halaman Semua To-Do User
+
+![foto}()
+
+Pada halaman ini, admin dapat melihat seluruh data to-do dari semua user.
+
+Tabel menampilkan kolom tambahan berupa nama user, yang tidak terlihat pada akun user biasa.
+
+Hal ini menunjukkan bahwa admin memiliki hak akses penuh terhadap data.
+
+4. Admin Mengubah Status To-Do
+
+![foto}()
+
+Admin dapat mengubah status to-do dari Belum menjadi Selesai atau sebaliknya dengan menekan tombol status.
+
+Perubahan ini langsung tersimpan ke dalam database.
+
+5. Admin Menghapus To-Do
+
+![foto}()
+
+Admin memiliki hak untuk menghapus to-do milik user mana pun.
+
+Saat tombol hapus ditekan, sistem akan menampilkan konfirmasi sebelum data dihapus secara permanen.
+
+6. Pencarian To-Do oleh Admin
+
+![foto}()
+
+Admin dapat melakukan pencarian to-do berdasarkan judul.
+
+Fitur pencarian ini memudahkan admin dalam menemukan data tertentu dari seluruh user.
+
+7. Pagination To-Do Admin
+
+![foto}()
+
+Jika jumlah data to-do melebihi batas tampilan per halaman, sistem akan menampilkan pagination.
+
+Admin dapat berpindah halaman untuk melihat data lainnya.
+
+8. Logout Admin
+
+![foto}()
+
+Admin dapat keluar dari sistem dengan menekan tombol logout.
+
+Sistem akan menghapus session dan mengarahkan kembali ke halaman login.
+
+---
+
+👤 B. PENJELASAN HALAMAN USER
+
+1. Halaman Login User
+
+![foto}()
+
+User melakukan login dengan memasukkan username dan password.
+
+Sistem memverifikasi data user dan mengarahkan user ke dashboard jika login berhasil.
+
+2. Dashboard User
+
+![foto}()
+
+Dashboard user menampilkan informasi akun user yang sedang login beserta role sebagai user.
+
+Pada halaman ini terdapat tombol To-Do Saya untuk mengelola tugas pribadi.
+
+3. Halaman To-Do User
+
+![foto}()
+
+User hanya dapat melihat to-do miliknya sendiri.
+
+User tidak dapat melihat atau mengakses to-do milik user lain, sehingga data tetap aman.
+
+4. User Menambah To-Do
+
+![foto}()
+
+User dapat menambahkan to-do baru melalui form input.
+
+Data yang ditambahkan akan tersimpan ke database dan langsung ditampilkan pada tabel.
+
+5. User Mengubah Status To-Do
+
+![foto}()
+
+User dapat mengubah status to-do dari Belum menjadi Selesai atau sebaliknya.
+
+Fitur ini digunakan untuk menandai progres tugas.
+
+6. User Menghapus To-Do
+
+![foto}()
+
+User dapat menghapus to-do miliknya sendiri.
+
+Sistem akan menampilkan konfirmasi sebelum data dihapus.
+
+7. Pencarian To-Do User
+
+![foto}()
+
+User dapat mencari to-do berdasarkan judul.
+
+Fitur ini mempermudah user dalam mengelola daftar tugas yang banyak.
+
+8. Pagination To-Do User
+
+![foto}()
+
+Jika jumlah to-do user lebih dari batas tampilan per halaman, pagination akan muncul.
+
+User dapat berpindah halaman untuk melihat data lainnya.
+
+9. Logout User
+
+![foto}()
+
+User dapat keluar dari sistem dengan menekan tombol logout.
+
+Session akan dihapus dan user diarahkan kembali ke halaman login.
+
+✅ KESIMPULAN
+
+Aplikasi To-Do List ini memiliki dua role pengguna, yaitu admin dan user, dengan hak akses yang berbeda.
+
+Admin memiliki hak untuk mengelola seluruh data to-do, sedangkan user hanya dapat mengelola data miliknya sendiri.
+
+Dengan adanya fitur login, CRUD, pencarian, pagination, dan role management, aplikasi ini telah memenuhi kebutuhan sistem manajemen tugas berbasis web.
 
 
