@@ -231,7 +231,7 @@ Fitur ini digunakan untuk menandai progres tugas.
 
 6. User Menghapus To-Do
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/3756080f2886b054cf92cb3c986524fc4534c24b/ss_UAS/user_14_delete_todo.png)
 
 User dapat menghapus to-do miliknya sendiri.
 
