@@ -129,7 +129,7 @@ Sistem akan memverifikasi data admin melalui database. Jika data valid, admin ak
 
 2. Dashboard Admin
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/cf006a6e46abd47ab15795966b3baa6813e0cb0c/ss_UAS/admin_2_dashboard.png)
 
 Dashboard admin menampilkan informasi akun yang sedang login, termasuk nama pengguna dan role sebagai admin.
 
