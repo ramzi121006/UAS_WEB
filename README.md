@@ -137,7 +137,7 @@ Pada halaman ini tersedia tombol Kelola Semua To-Do yang hanya dapat diakses ole
 
 3. Halaman Semua To-Do User
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/9656734a152fbae2eb121ef6533726297615bcba/ss_UAS/admin_3_all_todo.png)
 
 Pada halaman ini, admin dapat melihat seluruh data to-do dari semua user.
 
