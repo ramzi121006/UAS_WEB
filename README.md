@@ -163,7 +163,7 @@ Saat tombol hapus ditekan, sistem akan menampilkan konfirmasi sebelum data dihap
 
 6. Pencarian To-Do oleh Admin
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/be4e0cb8751f98b9705afafb885d3a24f9e24caa/ss_UAS/admin_6_search.png)
 
 Admin dapat melakukan pencarian to-do berdasarkan judul.
 
