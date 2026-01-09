@@ -147,7 +147,7 @@ Hal ini menunjukkan bahwa admin memiliki hak akses penuh terhadap data.
 
 4. Admin Mengubah Status To-Do
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/a2bd5f2df0f0b0637a65ec7a800f771424e58427/ss_UAS/admin_4_update_status.png)
 
 Admin dapat mengubah status to-do dari Belum menjadi Selesai atau sebaliknya dengan menekan tombol status.
 
