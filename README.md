@@ -223,7 +223,7 @@ Data yang ditambahkan akan tersimpan ke database dan langsung ditampilkan pada t
 
 5. User Mengubah Status To-Do
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/8290caf26447ee1b6f1d82b4a1a730e4b4d6f7b3/ss_UAS/user_13_update_status.png)
 
 User dapat mengubah status to-do dari Belum menjadi Selesai atau sebaliknya.
 
