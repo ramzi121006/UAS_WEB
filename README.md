@@ -115,4 +115,10 @@ RULE UMUM:
    
 📁 screenshots/
 
+---
+
+🖼️ 1. Halaman Home
+
+Nama File:
+
 
