@@ -255,7 +255,7 @@ User dapat berpindah halaman untuk melihat data lainnya.
 
 9. Logout User
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/8738eedbee0bcd9b19e7a70716d01572d0d21d87/ss_UAS/user_17_logout.png)
 
 User dapat keluar dari sistem dengan menekan tombol logout.
 
