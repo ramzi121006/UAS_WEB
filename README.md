@@ -199,7 +199,7 @@ Sistem memverifikasi data user dan mengarahkan user ke dashboard jika login berh
 
 2. Dashboard User
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/eff4e8c478f97442667a731b5f72bc08406965e8/ss_UAS/user_10_dashboard.png)
 
 Dashboard user menampilkan informasi akun user yang sedang login beserta role sebagai user.
 
