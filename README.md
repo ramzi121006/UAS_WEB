@@ -155,7 +155,7 @@ Perubahan ini langsung tersimpan ke dalam database.
 
 5. Admin Menghapus To-Do
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/41fd2de70aeea51ec866a48e8fda5011793b81ea/ss_UAS/admin_5_delete_todo.png)
 
 Admin memiliki hak untuk menghapus to-do milik user mana pun.
 
