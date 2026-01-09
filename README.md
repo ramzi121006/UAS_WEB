@@ -215,7 +215,7 @@ User tidak dapat melihat atau mengakses to-do milik user lain, sehingga data tet
 
 4. User Menambah To-Do
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/aeb06a14595ad5c5768ff753ee59e30207ff866a/ss_UAS/user_12_add_todo.png)
 
 User dapat menambahkan to-do baru melalui form input.
 
