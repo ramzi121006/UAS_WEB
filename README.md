@@ -1,12 +1,12 @@
 # UAS_WEB
 
-**Nama:** 
+**Nama                  : Muhamad Valentino Ramzi** 
 
-**Kelas:** 
+**Kelas                 : TI.24.A.5** 
 
-**Matkul:**
+**Matkul                : Pemrograman Web 1**
 
-**Dosen Pengampu:**
+**Dosen Pengampu        : Agung Nugroho S.Kom.,M.Kom**
 
 ---
 
@@ -117,7 +117,7 @@ RULE UMUM:
 
 ---
 
-👑 A. PENJELASAN HALAMAN ADMIN
+**👑 A. PENJELASAN HALAMAN ADMIN**
 
 1. Halaman Login Admin
 
@@ -187,7 +187,7 @@ Sistem akan menghapus session dan mengarahkan kembali ke halaman login.
 
 ---
 
-👤 B. PENJELASAN HALAMAN USER
+**👤 B. PENJELASAN HALAMAN USER**
 
 1. Halaman Login User
 
