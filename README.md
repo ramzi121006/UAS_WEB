@@ -179,7 +179,7 @@ Admin dapat berpindah halaman untuk melihat data lainnya.
 
 8. Logout Admin
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/f37d1d2d48b070cd9781bcdcf9e10890eb21b8e2/ss_UAS/admin_8_logout.png)
 
 Admin dapat keluar dari sistem dengan menekan tombol logout.
 
