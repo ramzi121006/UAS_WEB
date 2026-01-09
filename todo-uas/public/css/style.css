@@ -1,0 +1,73 @@
+body {
+    background: linear-gradient(135deg, #ff9800, #ffeb3b);
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.bg-orange {
+    background-color: #ff9800;
+}
+
+.text-orange {
+    color: #ff9800;
+}
+
+.btn-orange {
+    background-color: #ff9800;
+    color: white;
+    border: none;
+}
+
+.btn-orange:hover {
+    background-color: #e68900;
+    color: white;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.emoji-title {
+    font-size: 2rem;
+}
+
+.todo-icon {
+    font-size: 3rem;
+}
+
+.login-emoji {
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+.bg-gradient-orange {
+    background: linear-gradient(135deg, #ff9800, #ffd54f);
+    min-height: 100vh;
+}
+
+.bg-orange {
+    background-color: #ff9800 !important;
+}
+
+.text-orange {
+    color: #ff9800;
+}
+
+.btn-orange {
+    background-color: #ff9800;
+    color: white;
+    border: none;
+}
+
+.btn-orange:hover {
+    background-color: #fb8c00;
+}
+
+.dashboard-card {
+    border-radius: 20px;
+    background-color: #fffaf0;
+}
