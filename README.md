@@ -191,7 +191,7 @@ Sistem akan menghapus session dan mengarahkan kembali ke halaman login.
 
 1. Halaman Login User
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/d4b848e1b688ae054acfe3c4cfb582566014f7dc/ss_UAS/user_9_login.png)
 
 User melakukan login dengan memasukkan username dan password.
 
