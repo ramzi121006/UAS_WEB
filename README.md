@@ -171,7 +171,7 @@ Fitur pencarian ini memudahkan admin dalam menemukan data tertentu dari seluruh 
 
 7. Pagination To-Do Admin
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/65a55d2dff012926444d94aa86d125bb7a1e0769/ss_UAS/admin_7_pagination.png)
 
 Jika jumlah data to-do melebihi batas tampilan per halaman, sistem akan menampilkan pagination.
 
