@@ -247,7 +247,7 @@ Fitur ini mempermudah user dalam mengelola daftar tugas yang banyak.
 
 8. Pagination To-Do User
 
-![foto]()
+![foto](https://github.com/ramzi121006/UAS_WEB/blob/470b27935d8584ca3623f9d677a5c1af8139c008/ss_UAS/user_16_pagination.png)
 
 Jika jumlah to-do user lebih dari batas tampilan per halaman, pagination akan muncul.
 
